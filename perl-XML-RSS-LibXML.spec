@@ -70,16 +70,16 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.26.1/XML/RSS/LibXML.pm
-/usr/lib/perl5/vendor_perl/5.26.1/XML/RSS/LibXML/ImplBase.pm
-/usr/lib/perl5/vendor_perl/5.26.1/XML/RSS/LibXML/MagicElement.pm
-/usr/lib/perl5/vendor_perl/5.26.1/XML/RSS/LibXML/Namespaces.pm
-/usr/lib/perl5/vendor_perl/5.26.1/XML/RSS/LibXML/Null.pm
-/usr/lib/perl5/vendor_perl/5.26.1/XML/RSS/LibXML/V0_9.pm
-/usr/lib/perl5/vendor_perl/5.26.1/XML/RSS/LibXML/V0_91.pm
-/usr/lib/perl5/vendor_perl/5.26.1/XML/RSS/LibXML/V0_92.pm
-/usr/lib/perl5/vendor_perl/5.26.1/XML/RSS/LibXML/V1_0.pm
-/usr/lib/perl5/vendor_perl/5.26.1/XML/RSS/LibXML/V2_0.pm
+/usr/lib/perl5/vendor_perl/5.28.0/XML/RSS/LibXML.pm
+/usr/lib/perl5/vendor_perl/5.28.0/XML/RSS/LibXML/ImplBase.pm
+/usr/lib/perl5/vendor_perl/5.28.0/XML/RSS/LibXML/MagicElement.pm
+/usr/lib/perl5/vendor_perl/5.28.0/XML/RSS/LibXML/Namespaces.pm
+/usr/lib/perl5/vendor_perl/5.28.0/XML/RSS/LibXML/Null.pm
+/usr/lib/perl5/vendor_perl/5.28.0/XML/RSS/LibXML/V0_9.pm
+/usr/lib/perl5/vendor_perl/5.28.0/XML/RSS/LibXML/V0_91.pm
+/usr/lib/perl5/vendor_perl/5.28.0/XML/RSS/LibXML/V0_92.pm
+/usr/lib/perl5/vendor_perl/5.28.0/XML/RSS/LibXML/V1_0.pm
+/usr/lib/perl5/vendor_perl/5.28.0/XML/RSS/LibXML/V2_0.pm
 
 %files dev
 %defattr(-,root,root,-)
