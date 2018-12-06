@@ -4,7 +4,7 @@
 #
 Name     : perl-XML-RSS-LibXML
 Version  : 0.3105
-Release  : 6
+Release  : 7
 URL      : https://cpan.metacpan.org/authors/id/D/DM/DMAKI/XML-RSS-LibXML-0.3105.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DM/DMAKI/XML-RSS-LibXML-0.3105.tar.gz
 Summary  : 'XML::RSS with XML::LibXML'
