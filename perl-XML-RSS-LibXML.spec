@@ -4,7 +4,7 @@
 #
 Name     : perl-XML-RSS-LibXML
 Version  : 0.3105
-Release  : 15
+Release  : 16
 URL      : https://cpan.metacpan.org/authors/id/D/DM/DMAKI/XML-RSS-LibXML-0.3105.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DM/DMAKI/XML-RSS-LibXML-0.3105.tar.gz
 Summary  : 'XML::RSS with XML::LibXML'
@@ -97,13 +97,13 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.32.1/XML/RSS/LibXML.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/RSS/LibXML/ImplBase.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/RSS/LibXML/MagicElement.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/RSS/LibXML/Namespaces.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/RSS/LibXML/Null.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/RSS/LibXML/V0_9.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/RSS/LibXML/V0_91.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/RSS/LibXML/V0_92.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/RSS/LibXML/V1_0.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/RSS/LibXML/V2_0.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/RSS/LibXML.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/RSS/LibXML/ImplBase.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/RSS/LibXML/MagicElement.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/RSS/LibXML/Namespaces.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/RSS/LibXML/Null.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/RSS/LibXML/V0_9.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/RSS/LibXML/V0_91.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/RSS/LibXML/V0_92.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/RSS/LibXML/V1_0.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/RSS/LibXML/V2_0.pm
